@@ -136,16 +136,16 @@ surat-kantor/
 Berikut adalah beberapa screenshot dari aplikasi:
 
 ### Halaman Login
-![Halaman Login](images/login.png)
+![Halaman Login](image.png)
 
 ### Dashboard Utama
-![Dashboard](images/dashboard.png)
+![Dashboard](image%copy.png)
 
 ### Daftar Surat Masuk
-![Surat Masuk](images/surat_masuk.png)
+![Surat Masuk](image%copy%3.png)
 
 ### Form Surat Keluar
-![Surat Keluar](images/surat_keluar.png)
+![Surat Keluar](image%copy%2.png)
 
 ## Keamanan
 
@@ -170,3 +170,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 - Email: your-email@example.com
 - GitHub: [@yourusername](https://github.com/yourusername)
+
