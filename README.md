@@ -139,13 +139,14 @@ Berikut adalah beberapa screenshot dari aplikasi:
 ![Halaman Login](image.png)
 
 ### Dashboard Utama
-![Dashboard](image%copy.png)
+![Dashboard](image%20copy.png)
 
 ### Daftar Surat Masuk
-![Surat Masuk](image%copy%3.png)
+![Surat Masuk](image%20copy%203.png)
 
 ### Form Surat Keluar
-![Surat Keluar](image%copy%2.png)
+![Surat Keluar](image%20copy%202.png)
+
 
 ## Keamanan
 
@@ -170,4 +171,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 - Email: your-email@example.com
 - GitHub: [@yourusername](https://github.com/yourusername)
+
 
