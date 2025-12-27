@@ -131,13 +131,21 @@ surat-kantor/
 └── README.md
 ```
 
-## Penggunaan
+## Screenshots
 
-1. **Login**: Masuk dengan email dan password
-2. **Dashboard**: Pilih menu Surat Masuk atau Surat Keluar
-3. **Surat Masuk**: Klik surat untuk lihat detail, gunakan tombol Balas/Hapus
-4. **Surat Keluar**: Klik "Tulis Surat" untuk buat surat baru
-5. **Logout**: Klik logout di sidebar
+Berikut adalah beberapa screenshot dari aplikasi:
+
+### Halaman Login
+![Halaman Login](images/login.png)
+
+### Dashboard Utama
+![Dashboard](images/dashboard.png)
+
+### Daftar Surat Masuk
+![Surat Masuk](images/surat_masuk.png)
+
+### Form Surat Keluar
+![Surat Keluar](images/surat_keluar.png)
 
 ## Keamanan
 
@@ -161,5 +169,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Kontak
 
 - Email: your-email@example.com
-
 - GitHub: [@yourusername](https://github.com/yourusername)
